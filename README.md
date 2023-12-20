@@ -11,7 +11,7 @@ The changes made were:
 * Added a descriptive title
 
 ## Website Preview
-![image](./assets/images/screenshot.png)
+![image](./assets/images/Screenshot.png)
 
 ## Link Deploy Application
 
