@@ -4,7 +4,7 @@
 
 The purpose of the Horiseon website is to refactor the original code to be more accessible.
 
-I was able to detect the issue inside the css and html. Able to apply what I have learn in Module 1 into this project. 
+I was able to detect the issue inside the CSS and HTML. Apply what I learned in Module 1 to this project. 
 
 ## Features 
 * Added alt attributes to images
